@@ -1,0 +1,15 @@
+# Smtp configuration
+mail.smtp.host=smtp.gmail.com
+mail.smtp.port=587
+mail.smtp.auth=true
+mail.smtp.starttls.enable=true
+
+# Imap configuration
+mail.imaps.host=imap.gmail.com
+mail.imaps.auth=true
+mail.imaps.port=993
+mail.imaps.starttls.enable=true
+
+# Authentication
+mail.username=
+mail.password=
