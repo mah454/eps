@@ -1,8 +1,8 @@
 # Email Publish Subscribe
 
 use mail server as topic broker server (like ActiveMQ topic).    
-**IMAP**: used for subscribe messages   
-**SMTP**: used for publish messages
+**SMTP**: used for publish messages    
+**IMAP**: used for subscribe messages     
 
 ### Usage:
 
